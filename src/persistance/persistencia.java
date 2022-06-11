@@ -10,7 +10,7 @@ import java.sql.*;
  */
 public class persistencia {
     private static String login = "root";
-    private static String password = "AN@0505023023";
+    private static String password = "ChooseYourPassword";
     private static String url = "jdbc:mysql://192.168.1.149/biblioteca?serverTimezone=UTC";
     private static Connection conn = null;
     
